@@ -1,3 +1,6 @@
+Total Time: 11Hrs<br>
+11/10/2025 to 11/11/2025<br>
+9.5Hrs on 11/10 and 1.5Hrs on 11/11<br>
 I calibrate reel to reel machines as my main hobby and side hustle. By virtue, VU meters seemed like a cool business card idea. First, I mocked up the design for the silkscreen in illustrator. I based this design off my very own TEAC A3340S VU meters.
 ![VU2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAyODAsInB1ciI6ImJsb2JfaWQifX0=--cc8e4fb6aa43e2bbb78d17b8d351742729cfd1e0/VU2.png)
 Then I used KiCAD's built in BMP to footprint editor to get the silkscreens.
