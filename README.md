@@ -10,6 +10,8 @@ I made a NFC business card themed to look like one of my TEAC A3340S VU meters. 
             <th>Quantity</th>
             <th>Value</th>
             <th>LCSC ID</th>
+            <th>Price</th>
+            <th>Ext. Price</th>
         </tr>
     </thead>
     <tbody>
@@ -18,24 +20,35 @@ I made a NFC business card themed to look like one of my TEAC A3340S VU meters. 
             <td>1</td>
             <td>NT3H2111W0FHKH</td>
             <td>C710403</td>
+            <td>1.09000</td>
+            <td>$5.45</td>
         </tr>
         <tr>
             <td>R2</td>
             <td>1</td>
             <td>47 Ohm</td>
             <td>C23182</td>
+            <td>0.00300</td>
+            <td>$0.15</td>
         </tr>
         <tr>
             <td>D1</td>
             <td>1</td>
             <td>2V LED</td>
             <td>C2286</td>
+            <td>0.03500</td>
+            <td>$0.35</td>
         </tr>
         <tr>
             <td>C1</td>
             <td>1</td>
             <td>220nF</td>
             <td>C21120</td>
+            <td>0.08100</td>
+            <td>$0.81</td>
+        </tr>
+        <tr>
+            <td>Total: $14.19 (after shipping+tax)</td>
         </tr>
     </tbody>
 </table>
